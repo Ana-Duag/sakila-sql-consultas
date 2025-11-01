@@ -1,9 +1,8 @@
+#### PRUEBA TÉCNICA Nº 4
 
-ANÁLISIS DE LA BASE DE DATOS SAKILA
+Este README contiene la información general de un conjunto de consultas SQL aplicadas a la base de datos Sakila, que simula una tienda de alquiler de películas. Realizada por Ana Pilar Dueñas Agudo en el Bootcamp de Análisis de Datos de Adalab. 
 
-Descripción
-
-Realizado por Ana Pilar Dueñas Agudo, este README contiene la información general de un conjunto de consultas SQL aplicadas a la base de datos Sakila, que simula una tienda de alquiler de películas.
+#### Descripción
 
 El objetivo es realizar análisis de datos sobre películas, actores, clientes, categorías y alquileres.
 
@@ -12,7 +11,7 @@ Todas las consultas están documentadas y organizadas en el archivo: consultas_s
 Antes de comenzar a desarrollar las consultas en SQL, se ha clonado el repositorio, usando los comandos básicos de git: git clone + URL, git status, git add -A, git commit - m, git push.
 
 
-Base de Datos
+#### Base de Datos
 
 La base de datos Sakila incluye las siguientes tablas principales con las que se ha trabajado:
 
@@ -35,7 +34,7 @@ inventory	     Inventario de películas disponibles por tienda
 
 
 
-Instalación y Ejecución
+#### Instalación y Ejecución
 
 La base de datos ya está creada, por lo que solo es necesario seleccionarla:
 
@@ -46,17 +45,17 @@ Después se ejecuta el archivo SQL con todas las consultas.
 
 
 
-Observaciones
+#### Observaciones
 
-Se trabaja con queries básicas y avanzadas.
+- Se trabaja con queries básicas y avanzadas.
 
-Uso de funciones y cláusulas GROUP BY, WHERE, HAVING.
+- Uso de funciones y cláusulas GROUP BY, WHERE, HAVING.
 
-Dominio de joins y combinaciones (INNER JOIN, LEFT JOIN).
+- Dominio de joins y combinaciones (INNER JOIN, LEFT JOIN).
 
-Uso de subconsultas y subconsultas correlacionadas.
+- Uso de subconsultas y subconsultas correlacionadas.
 
-Manejo de UNION y UNION ALL.
+- Manejo de UNION y UNION ALL.
 
 
 Algunas consultas se han planteado de más de una forma, con el objetivo de trabajar con diferentes métodos de resolución.

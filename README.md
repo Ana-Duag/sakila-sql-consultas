@@ -1,14 +1,16 @@
-#### PRUEBA TÉCNICA Nº 4
+### PRUEBA TÉCNICA: CONSULTAS SQL
 
-Este README contiene la información general de un conjunto de consultas SQL aplicadas a la base de datos Sakila, que simula una tienda de alquiler de películas. Realizada por Ana Pilar Dueñas Agudo en el Bootcamp de Análisis de Datos de Adalab. 
+Este README contiene la información general de un conjunto de consultas SQL aplicadas a la base de datos Sakila, que simula una tienda de alquiler de películas. Realizada por **Ana Pilar Dueñas Agudo** en el **Bootcamp de Análisis de Datos de Adalab (año 2025)**. 
 
 #### Descripción
 
-El objetivo es realizar análisis de datos sobre películas, actores, clientes, categorías y alquileres.
+El objetivo es realizar una serie de consultas sobre películas, actores, clientes, categorías y alquileres.
 
-Todas las consultas están documentadas y organizadas en el archivo: consultas_sakila_ana.sql.
+Todas las consultas están documentadas y organizadas en el archivo: **consultas_sakila_ana.sql**.
 
 Antes de comenzar a desarrollar las consultas en SQL, se ha clonado el repositorio, usando los comandos básicos de git: git clone + URL, git status, git add -A, git commit - m, git push.
+
+---
 
 
 #### Base de Datos
@@ -33,6 +35,7 @@ rental	         Registro de alquileres
 inventory	     Inventario de películas disponibles por tienda
 
 
+---
 
 #### Instalación y Ejecución
 
@@ -43,6 +46,7 @@ USE sakila;
 
 Después se ejecuta el archivo SQL con todas las consultas.
 
+---
 
 
 #### Observaciones
@@ -57,9 +61,8 @@ Después se ejecuta el archivo SQL con todas las consultas.
 
 - Manejo de UNION y UNION ALL.
 
+- Algunas consultas se han planteado de más de una forma, con el objetivo de trabajar con diferentes métodos de resolución.
 
-Algunas consultas se han planteado de más de una forma, con el objetivo de trabajar con diferentes métodos de resolución.
+- Todas las consultas están documentadas para mejor legibilidad.
 
-Todas las consultas están documentadas y ordenadas para mejor legibilidad.
-
-Este proyecto no modifica la base de datos Sakila, ya que únicamente se realizan consultas, no se crean tablas ni se insertan datos.
+- Este proyecto no modifica la base de datos Sakila, ya que únicamente se realizan consultas, no se crean tablas ni se insertan datos.
